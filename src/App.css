@@ -1,0 +1,27 @@
+/* App.css */
+
+.body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  margin: 10;
+  padding: 10;
+}
+
+.mainbr {
+  text-align: center;
+  background-color: #d79913;
+  width: 80%;
+  max-width: 600px;
+  padding: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+}
+
+.title {
+  font-size: 2.25rem;
+  font-weight: 700;
+}
